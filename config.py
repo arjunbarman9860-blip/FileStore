@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb"
 DB_NAME = "Eren"
 
-FSUBS = [[-, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003531649220, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =    # just put channel id dont add "-1003531649220"
 # Multiple Database Channels (can be set via bot settings)
