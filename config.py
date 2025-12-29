@@ -27,8 +27,8 @@ FSUBS = [[-, True, 10]] # Force Subscription Channels [channel_id, request_enabl
 DB_CHANNEL =    # just put channel id dont add "-1003531649220"
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
-#     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
-#     "-1001234567890": {"name": "Secondary DB", "is_primary": False, "is_active": True}
+#     "-1003534231961": {"name": "Primary DB", "is_primary": True, "is_active": True},
+#     "-1003630002386": {"name": "Secondary DB", "is_primary": False, "is_active": True}
 # }
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
