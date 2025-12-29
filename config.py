@@ -4,13 +4,13 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 6
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
+SHORT_URL = "" # shortner url 
 SHORT_API = "" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+SHORT_TUT = ""
 
 # Bot Configuration
 SESSION = "yato"
